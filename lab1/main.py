@@ -127,7 +127,7 @@ class ColorStudio:
         ).pack(side="left")
         tk.Label(
             header,
-            text="  Y2K EDITION  •  CMYK / RGB / HLS",
+            text=" CMYK / RGB / HLS",
             font=("Courier New", 11, "bold"),
             fg=PINK,
             bg=BACKGROUND,
